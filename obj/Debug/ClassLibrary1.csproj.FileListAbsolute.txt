@@ -1,0 +1,9 @@
+D:\Учеба\Практика_ЭПАМ\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Учеба\Практика_ЭПАМ\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Учеба\Практика_ЭПАМ\ClassLibrary1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Учеба\Практика_ЭПАМ\ClassLibrary1\bin\Debug\WebDriver.dll
+D:\Учеба\Практика_ЭПАМ\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Учеба\Практика_ЭПАМ\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+D:\Учеба\Практика_ЭПАМ\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Учеба\Практика_ЭПАМ\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Учеба\Практика_ЭПАМ\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
